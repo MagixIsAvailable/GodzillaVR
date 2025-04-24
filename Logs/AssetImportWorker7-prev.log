@@ -1,0 +1,1349 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.57f1 (9d8bd91adc0a) revision 10324953'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 65441 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+J:\Program Files (x86)\Unity 2022.1.13f1\2022.3.57f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+G:/unityprojects/Godzilla_VR_2025/UnityProject
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+64928
+Successfully changed project path to: G:/unityprojects/Godzilla_VR_2025/UnityProject
+G:/unityprojects/Godzilla_VR_2025/UnityProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [73556]  Target information:
+
+Player connection [73556]  * "[IP] 172.21.16.1 [Port] 0 [Flags] 2 [Guid] 2486453400 [EditorId] 2486453400 [Version] 1048832 [Id] WindowsEditor(7,Machine) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [73556]  * "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 2486453400 [EditorId] 2486453400 [Version] 1048832 [Id] WindowsEditor(7,Machine) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [73556]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 2486453400 [EditorId] 2486453400 [Version] 1048832 [Id] WindowsEditor(7,Machine) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [73556]  * "[IP] 192.168.1.94 [Port] 0 [Flags] 2 [Guid] 2486453400 [EditorId] 2486453400 [Version] 1048832 [Id] WindowsEditor(7,Machine) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [73556] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [73556] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+Refreshing native plugins compatible for Editor in 34.23 ms, found 8 plugins.
+Unity memory allocator detected: MetaXRAudio native memory allocations will be tracked.
+Preloading 2 native plugins for Editor in 7.49 ms.
+Initialize engine version: 2022.3.57f1 (9d8bd91adc0a)
+[Subsystems] Discovering subsystems at path J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/unityprojects/Godzilla_VR_2025/UnityProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   NVIDIA
+    VRAM:     24326 MB
+    Driver:   32.0.15.7283
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/Managed'
+Mono path[1] = 'J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: J:/Program Files (x86)/Unity 2022.1.13f1/2022.3.57f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006720 seconds.
+- Loaded All Assemblies, in  0.404 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 578 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.884 seconds
+Domain Reload Profiling: 1288ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (146ms)
+		LoadAssemblies (167ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (140ms)
+				TypeCache.ScanAssembly (127ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (885ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (842ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (679ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (114ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.678 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.964 seconds
+Domain Reload Profiling: 1629ms
+	BeginReloadAssembly (176ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (412ms)
+		LoadAssemblies (398ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (126ms)
+			TypeCache.Refresh (89ms)
+				TypeCache.ScanAssembly (70ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (964ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (763ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (597ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 34.58 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.43 ms.
+Unloading 2858 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets / (447.2 KB). Loaded Objects now: 3328.
+Memory consumption went from 152.8 MB to 152.4 MB.
+Total: 7.596400 ms (FindLiveObjects: 0.483600 ms CreateObjectMapping: 0.125500 ms MarkObjects: 6.670300 ms  DeleteObjects: 0.315300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 25.17 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.33 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (401.9 KB). Loaded Objects now: 3328.
+Memory consumption went from 87.8 MB to 87.4 MB.
+Total: 174.400000 ms (FindLiveObjects: 0.352600 ms CreateObjectMapping: 0.127400 ms MarkObjects: 173.567500 ms  DeleteObjects: 0.351500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 36.73 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.41 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (401.8 KB). Loaded Objects now: 3328.
+Memory consumption went from 87.5 MB to 87.1 MB.
+Total: 7.889800 ms (FindLiveObjects: 0.785600 ms CreateObjectMapping: 0.124500 ms MarkObjects: 6.684000 ms  DeleteObjects: 0.294300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 35.12 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.39 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (409.7 KB). Loaded Objects now: 3328.
+Memory consumption went from 87.5 MB to 87.1 MB.
+Total: 7.327300 ms (FindLiveObjects: 0.416700 ms CreateObjectMapping: 0.125000 ms MarkObjects: 6.470400 ms  DeleteObjects: 0.314000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:graphics/active-color-space: 03000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.212 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.442 seconds
+Domain Reload Profiling: 2602ms
+	BeginReloadAssembly (451ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (618ms)
+		LoadAssemblies (845ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (102ms)
+			TypeCache.Refresh (61ms)
+				TypeCache.ScanAssembly (49ms)
+			ScanForSourceGeneratedMonoScriptInfo (21ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (1442ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (809ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (208ms)
+			ProcessInitializeOnLoadAttributes (543ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 31.52 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.39 ms.
+Unloading 2994 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7 unused Assets / (419.1 KB). Loaded Objects now: 3563.
+Memory consumption went from 133.8 MB to 133.4 MB.
+Total: 9.255300 ms (FindLiveObjects: 0.405700 ms CreateObjectMapping: 0.219200 ms MarkObjects: 8.316500 ms  DeleteObjects: 0.312700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: dff3a5e3d2e750b79733c68dda740daa -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 86183419535e375187b30a3762578554 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: c92ab8c5df14d125f81d8a6aa11553f0 -> 
+  custom:scripting/monoscript/fileName/ArmModelEditor.cs: 002f07458c7aefa2a394e7243ccd9325 -> 
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2bc994238684257d0f665045b3a43e06 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsBase.cs: 180fb79df8b151d76987ec95d44be466 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModel.cs: 541081f84a463fbdbaf51de62d6c8587 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 0c99915cc85610c8aa07a821d95f5c4d -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsUpgrade.cs: cc8d2e81204b3fd0e662cd38ef4a2d49 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: ca0d817c6fa6ba59dd0d9d3d718f0246 -> 
+  custom:scripting/monoscript/fileName/XROrigin.cs: 6b2a8b745f3d38726455a3f4abd0a820 -> 
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e00360e257a3a721ac63e6db0a100b5f -> 125406ea1c6b6d8dd8804e5d3843d2f6
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 898d09e2ae7995590612a461468d4931 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriverEditor.cs: 0b511e14ae4c20f3b8d8e2c82796f595 -> 
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: b1913ce2490a4f8dfdca5a234bf8dc5a -> 
+  custom:scripting/monoscript/fileName/MathUtility.cs: 7101ed9f86b2bfdaf67ab4303cc98ede -> 
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 3985abc2203031081ddfa0f123a86da4 -> 856b5133026de96b7876a6750e496dcf
+  custom:scripting/monoscript/fileName/XRCustomLoaderUI.cs: a1b6225426bb5004db8b9d7388fe5771 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: f518b6574816de2472e535eaf8315248 -> 
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: ecfd114d63bf0d449c41f7f6c6fbd5f2 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriver.cs: 7c652bf9e4ac4ec3dd58bf53ae85a810 -> 
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 6148b56b6bc69c6c610d0bffd8a8a751 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: c4213bb88259ca88e9173f72358828a5 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management.Editor: 875e2b70b899c8e4d1c2d41f9404c56a -> 
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 21f04f1b94377c8ad9d3b1908a67282d -> 
+  custom:scripting/monoscript/fileName/EditorUtils.cs: a5caa48634245734f9c5a18079fb3381 -> 
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 04e2b738e62ba02835186f5368bff217 -> 
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: c8c31f9885823d0f32b1b137fa5d5cf7 -> b769a36b5fb43e0cf43056af8e4e5bca
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 0a3ecf20ea398b07067a97ad700896f0 -> 
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: adaf2ae3d3fb4c625dfb5150d3290bb4 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: 8fc062c0477f4d6714e20e8bad4aebcf -> 
+  custom:scripting/monoscript/fileName/XRLoaderHelper.cs: ae85c4c4a11fcc1ed3393963333e400c -> 
+  custom:scripting/monoscript/fileName/XRPluginManagementProjectValidation.cs: 12841b9f0a8da6fb46dd05260375325e -> 
+  custom:scripting/monoscript/fileName/XRLoader.cs: d82cec0b87bab7dffe74fb3651887ce3 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 072e031db5bbf098e79987e2ab2e6415 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsPerBuildTarget.cs: 6970e5bff368910038049eb1434facbf -> 
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 81379e00ae2b5ce5cabbbaee7a2dcc3b -> 
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: d6ff3f82563bc8b5b53669110b89ef7f -> 
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: d8a27b8787df350ae61a698ef53e5d49 -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: e83421b33155ae37d2c0a7e754ca69bc -> 
+  custom:scripting/monoscript/fileName/XRSupportedBuildTargetAttribute.cs: f87a91ba911f6030453bea8d921b45d2 -> 
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: a009f5fc4b39ebfe6ee20607ff6eb8b8 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestProcessor.cs: d8dd4961c18e43fcd707eb950405363a -> 
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 758c8c41ef41be8a387763b06832b3c4 -> 
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.SpatialTracking: fe8bd671b41f1462276b731bbb32d826 -> 
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: c0b300e342f12c77737b8543de36271c -> 
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: aa0caa3b2cf92bd9fd4fb50854e801fa -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfo.cs: 86fa513bfc04d58509db292069910bf2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SeedXRInputBindings.cs: 5b6b70752ca7062d0525af0428bab981 -> 
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 92363ef411ca3ab811a667b9e498049a -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.SpatialTracking: dd1905b8a8246178a3248fba44980e0b -> 
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bedfd4ae31cd285d91eb7454afab43d1 -> f6675c902fe9aabb868e66a1b96d84ff
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: 2d9ed55d97ae69e39f7e3f328b4b572b -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IntDatum.cs: eba3d5990e1ba42fccdc328943c9a374 -> 
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: ea6b89adb16ad7f7f80f8867b8a4a7b3 -> 7bb8abc112be6fa55399c70eceddd0e6
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 86b409a439be434295129394136400b6 -> 0b589b0714ff47938a80aaea39f2ad73
+  custom:scripting/monoscript/fileName/BuildHelpers.cs: 52ee9552b5cbbfe4eb60d480e36ffff5 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: a5da988eaeb4ec8c47ec6d3f399aae82 -> 
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: 7ae964814ae51b3db69ee982b4487eb7 -> 
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: d619c9ffdf67a2584c4c280b62801420 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: c3e8d16f0025fde8dfae950741c9e809 -> 
+  custom:scripting/monoscript/fileName/XRSettingsManager.cs: 701988ef3c16e84d3bc781477493ab34 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: d89574041e110f94e351c59305ce1729 -> 
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: fdb9be428c56110bf4ed66fc84f3e289 -> 
+  custom:scripting/monoscript/fileName/IXRLoaderPreInit.cs: 4dbca4fbe4a89e2a18943694f414e3a9 -> 
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: ee194275fc072b5305145812281b99b4 -> 
+  custom:scripting/monoscript/fileName/XRLoaderOrderUI.cs: 7bb0491ac9109774b097f2da80cd0c03 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestBuildEventReceiver.cs: 641c0bff5eb90d0569a809ea302132ee -> 
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: 27ad0f59d0e93e7f397d852162dabbef -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/XRGeneralBuildProcessor.cs: d52e14652f14fd6e56a66a859653fea9 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettings.cs: 01e68fef49e5cbf622bb7b4ffc622d89 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: 9ee20e5672fe3bf1f84b928c077dd487 -> 
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 3b21fcb478e01e192c765332f617d70d -> 
+  custom:scripting/monoscript/fileName/XRManagerEditor.cs: 6847a9ea85cd2d801d895b625e9590ff -> 
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: cf53e16640493eed09c0a9bcf5e6d26a -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/StringDatum.cs: d477c3d9644054c4cdbfe58cd4210fc0 -> 
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 7d654a2b5b3a10da3e7d8472196e96d1 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: 19f997bb849a2416cd94c1cb63aa4f77 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: d35f98e49313ad0817835473a2d39b7f -> 
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BuildValidator.cs: c3aeddb666325043f13d5a964eeb8e0d -> 
+  custom:scripting/monoscript/fileName/IAndroidManifestRequirementProvider.cs: 42bf6f4b06629c812bd73f8ff461fec4 -> 
+  custom:scripting/monoscript/fileName/XRBuildProcessorHelper.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 5cab67c578494ca6880fc9efed7eda83 -> 
+  custom:scripting/monoscript/fileName/TypeLoaderExtensions.cs: ee5d3b5e5d81c98c5d3594e8b9153df0 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.XR.LegacyInputHelpers: da96c0e3ee4a99cfbe3f49c08ef62202 -> 
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: c055b9f82b217657ed26eec1a091686a -> 126e7804497058d31bc25b31f242e0f0
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: 102f3fdbb4e7dadde0b1c3f60e974b6f -> 
+  custom:scripting/monoscript/fileName/XRConfigurationProvider.cs: fa91ddd62be7b4c45bfd03890af30249 -> 
+  custom:scripting/monoscript/fileName/EditorUtilities.cs: 219d482e32bf0c01357e773617418955 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitialization.cs: 1f095dd277a284b59543541a608de1da -> 
+  custom:scripting/monoscript/fileName/EventBinding.cs: 57939feae70c39d5d7b259d56a13d4da -> 
+  custom:scripting/monoscript/fileName/ManifestElement.cs: c30b57498d373b7476c4d7dfdaee189c -> 
+  custom:scripting/monoscript/fileName/KnownPackages.cs: 8647f39ea28525d7cb72646ed790f6ec -> 
+  custom:scripting/monoscript/fileName/XREditorWorkQueue.cs: 8e928039a032f154dc8a86537aaac69a -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management: d2c73419a402f326215288c4e1611bce -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils: a7b154bc9ad05edf96e65ca25e872d7a -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 2fd2f508ff2826ba59792870d9c1f91d -> 
+  custom:scripting/monoscript/fileName/SwingArmModel.cs: b785e28c94fc60fc17e1daa28892b2dc -> 
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
+  custom:scripting/monoscript/fileName/ManifestRequirement.cs: d0237042ed94ccc3267a409cde8490a6 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: 2af944bee2b617e7ec6b3e7a0e3fadc8 -> 
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 32d48c1ce2e2a96b72bee78a51a5306f -> 
+  custom:scripting/monoscript/fileName/ArmModel.cs: 453296f093348abde426c4384ad89b48 -> 
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: 0136c7e06583b34e918f9531ef849871 -> 
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: bc8db2fc4add667bd74ebc1d7aeedf63 -> 
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: ff60d9139f1c67e4ef14a932c8953dd3 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: d832ed1fb4bcff52c32231feef759588 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils.Editor: 53994e8011deb8ddcaa91166a62ce9f0 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/XRConstants.cs: 1558884a4b0ea94b4910dd640a0e6741 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SwingArmModelEditor.cs: b9619a265ade6da0cba147c75ce515a7 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: 3515ce5f59c8813c1b42365c62110624 -> 
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: b8f84d6112ffc5b06d2d522a8c830bb0 -> 
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: d95eb104a3ef3c6ae92507bce7881df3 -> 
+  custom:scripting/monoscript/fileName/PackageNotificationUtils.cs: e493f521fc1755dec19875ae28a4f621 -> 
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: 22b86e6be82caa28b03f585d1da7a237 -> 
+  custom:scripting/monoscript/fileName/XRManagementAnalytics.cs: 546181baf4c03dbbd57015a6731508f8 -> 
+  custom:scripting/monoscript/fileName/UndoBlock.cs: bc46b6201606aca58a8d08e7a8630eb5 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModelEditor.cs: 6f53e2a966c4ba4985525963dcf7d0ab -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadataStore.cs: e06e5e9ffca9529e9db63900dd9caf32 -> 
+  custom:scripting/monoscript/fileName/XRPackage.cs: f2edbbf87f9b798abaf2a9f285d155f5 -> 
+  custom:scripting/monoscript/fileName/CameraOffsetEditor.cs: 063c409eda0f5d6811c327c4b5c05de0 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: 084445b05dff6018ed26483427ba66b1 -> 
+  custom:scripting/monoscript/fileName/Datum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BasePoseProvider.cs: 9a4470e47f250d9ee83dd1e5b0c8d4fb -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: fdac1796d7a60dd2a972e3ad84676279 -> bce7f3076984999dee21f7e6ecec3970
+  custom:scripting/monoscript/fileName/CameraOffset.cs: 48495ef795ef97b0c04851d617a81ec1 -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfoManager.cs: 28efaa63edac30b89ccc35ca2bf149fa -> 
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/XRConfigurationData.cs: 2cf07b13d54bfee2898ed6dc38612fbb -> 
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: 328e21e115aab576f0c2cc1740fc8a41 -> 
+  custom:scripting/monoscript/fileName/GuidUtil.cs: d1f5a09d9fee592e550b9629f93c4c63 -> 
+  custom:scripting/monoscript/fileName/HashSetList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: 3d475b7a59d03e48e843cee54ceb3c66 -> 
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 4f96c234827c9f502739689050ba31d7 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 685579ed12ed358773bc7d3b51ac57c3 -> 
+  custom:scripting/precompiled-assembly-types:Oculus.VR.Editor: 2630c14bd2789c0e181a8771fe0a4f14 -> 12dfbc4129e33636b8c4fd576d061dea
+  custom:scripting/monoscript/fileName/AndroidManifestDocument.cs: 4c38ca7417a5355dfe2fd0b706ad71e8 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: 7a005b62071f13d631a735bf21acdb5f -> 
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 51a572f09881fdb3c39d970c12b34b19 -> 
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: 701dfba7f7aa88c832d5efa6a6401b52 -> 
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 8f48fdf9d37d552791296f3db18d7293 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitializationSettings.cs: 2f743437d3b09c9a4a5a33e9be971b1a -> 
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 0c9e3ca7d66e4634b955f155129c5358 -> 
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 9320588873bc402103b6c71239087d46 -> 
+  custom:scripting/monoscript/fileName/FloatDatum.cs: 6bf8df8dd116e6869317b96cc2832ced -> 
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 96e72c8c385206675c182d08a61247f8 -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadata.cs: 16731333f575d8bc31df496aced36ebf -> 
+  custom:scripting/monoscript/fileName/XRManagerSettings.cs: 39a1227fa3c478af29a735ec246b6baf -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: 0f86b0866157a0dbfedd6e4123adccda -> 
+  custom:scripting/monoscript/fileName/XRLegacyUninstaller.cs: b85851af39f83959c5c298effbf32139 -> 
+  custom:scripting/monoscript/fileName/XRCustomLoaderUIManager.cs: 4be5a8f671a1d808dd1496961b79b86b -> 
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: fc1b8263d625f16a6826517266eeadca -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: c326bbe7a44f6ecb2a7d5ff8856f9cac -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ListExtensions.cs: dc08b0e81401b7052a787865553578e4 -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.XR.LegacyInputHelpers: 52acfc53051faf8d3716fd452f740f78 -> 
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: 77ae464d731fc089fa2dce81bad0a315 -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: c2dd418db18ce47e0c417bface05337e -> 
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: aa5c1a415a84802ad5740b78a5ea2ab8 -> 
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 26.81 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.48 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (401.9 KB). Loaded Objects now: 3563.
+Memory consumption went from 87.7 MB to 87.3 MB.
+Total: 10.766400 ms (FindLiveObjects: 0.373800 ms CreateObjectMapping: 0.100500 ms MarkObjects: 10.058800 ms  DeleteObjects: 0.232500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: dff3a5e3d2e750b79733c68dda740daa -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 86183419535e375187b30a3762578554 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: c92ab8c5df14d125f81d8a6aa11553f0 -> 
+  custom:scripting/monoscript/fileName/ArmModelEditor.cs: 002f07458c7aefa2a394e7243ccd9325 -> 
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2bc994238684257d0f665045b3a43e06 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsBase.cs: 180fb79df8b151d76987ec95d44be466 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModel.cs: 541081f84a463fbdbaf51de62d6c8587 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 0c99915cc85610c8aa07a821d95f5c4d -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsUpgrade.cs: cc8d2e81204b3fd0e662cd38ef4a2d49 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: ca0d817c6fa6ba59dd0d9d3d718f0246 -> 
+  custom:scripting/monoscript/fileName/XROrigin.cs: 6b2a8b745f3d38726455a3f4abd0a820 -> 
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e00360e257a3a721ac63e6db0a100b5f -> 125406ea1c6b6d8dd8804e5d3843d2f6
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 898d09e2ae7995590612a461468d4931 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriverEditor.cs: 0b511e14ae4c20f3b8d8e2c82796f595 -> 
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: b1913ce2490a4f8dfdca5a234bf8dc5a -> 
+  custom:scripting/monoscript/fileName/MathUtility.cs: 7101ed9f86b2bfdaf67ab4303cc98ede -> 
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 3985abc2203031081ddfa0f123a86da4 -> 856b5133026de96b7876a6750e496dcf
+  custom:scripting/monoscript/fileName/XRCustomLoaderUI.cs: a1b6225426bb5004db8b9d7388fe5771 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: f518b6574816de2472e535eaf8315248 -> 
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: ecfd114d63bf0d449c41f7f6c6fbd5f2 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriver.cs: 7c652bf9e4ac4ec3dd58bf53ae85a810 -> 
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 6148b56b6bc69c6c610d0bffd8a8a751 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: c4213bb88259ca88e9173f72358828a5 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management.Editor: 875e2b70b899c8e4d1c2d41f9404c56a -> 
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 21f04f1b94377c8ad9d3b1908a67282d -> 
+  custom:scripting/monoscript/fileName/EditorUtils.cs: a5caa48634245734f9c5a18079fb3381 -> 
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 04e2b738e62ba02835186f5368bff217 -> 
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: c8c31f9885823d0f32b1b137fa5d5cf7 -> b769a36b5fb43e0cf43056af8e4e5bca
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 0a3ecf20ea398b07067a97ad700896f0 -> 
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: adaf2ae3d3fb4c625dfb5150d3290bb4 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: 8fc062c0477f4d6714e20e8bad4aebcf -> 
+  custom:scripting/monoscript/fileName/XRLoaderHelper.cs: ae85c4c4a11fcc1ed3393963333e400c -> 
+  custom:scripting/monoscript/fileName/XRPluginManagementProjectValidation.cs: 12841b9f0a8da6fb46dd05260375325e -> 
+  custom:scripting/monoscript/fileName/XRLoader.cs: d82cec0b87bab7dffe74fb3651887ce3 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 072e031db5bbf098e79987e2ab2e6415 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsPerBuildTarget.cs: 6970e5bff368910038049eb1434facbf -> 
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 81379e00ae2b5ce5cabbbaee7a2dcc3b -> 
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: d6ff3f82563bc8b5b53669110b89ef7f -> 
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: d8a27b8787df350ae61a698ef53e5d49 -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: e83421b33155ae37d2c0a7e754ca69bc -> 
+  custom:scripting/monoscript/fileName/XRSupportedBuildTargetAttribute.cs: f87a91ba911f6030453bea8d921b45d2 -> 
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: a009f5fc4b39ebfe6ee20607ff6eb8b8 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestProcessor.cs: d8dd4961c18e43fcd707eb950405363a -> 
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 758c8c41ef41be8a387763b06832b3c4 -> 
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.SpatialTracking: fe8bd671b41f1462276b731bbb32d826 -> 
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: c0b300e342f12c77737b8543de36271c -> 
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: aa0caa3b2cf92bd9fd4fb50854e801fa -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfo.cs: 86fa513bfc04d58509db292069910bf2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SeedXRInputBindings.cs: 5b6b70752ca7062d0525af0428bab981 -> 
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 92363ef411ca3ab811a667b9e498049a -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.SpatialTracking: dd1905b8a8246178a3248fba44980e0b -> 
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bedfd4ae31cd285d91eb7454afab43d1 -> f6675c902fe9aabb868e66a1b96d84ff
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: 2d9ed55d97ae69e39f7e3f328b4b572b -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IntDatum.cs: eba3d5990e1ba42fccdc328943c9a374 -> 
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: ea6b89adb16ad7f7f80f8867b8a4a7b3 -> 7bb8abc112be6fa55399c70eceddd0e6
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 86b409a439be434295129394136400b6 -> 0b589b0714ff47938a80aaea39f2ad73
+  custom:scripting/monoscript/fileName/BuildHelpers.cs: 52ee9552b5cbbfe4eb60d480e36ffff5 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: a5da988eaeb4ec8c47ec6d3f399aae82 -> 
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: 7ae964814ae51b3db69ee982b4487eb7 -> 
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: d619c9ffdf67a2584c4c280b62801420 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: c3e8d16f0025fde8dfae950741c9e809 -> 
+  custom:scripting/monoscript/fileName/XRSettingsManager.cs: 701988ef3c16e84d3bc781477493ab34 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: d89574041e110f94e351c59305ce1729 -> 
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: fdb9be428c56110bf4ed66fc84f3e289 -> 
+  custom:scripting/monoscript/fileName/IXRLoaderPreInit.cs: 4dbca4fbe4a89e2a18943694f414e3a9 -> 
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: ee194275fc072b5305145812281b99b4 -> 
+  custom:scripting/monoscript/fileName/XRLoaderOrderUI.cs: 7bb0491ac9109774b097f2da80cd0c03 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestBuildEventReceiver.cs: 641c0bff5eb90d0569a809ea302132ee -> 
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: 27ad0f59d0e93e7f397d852162dabbef -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/XRGeneralBuildProcessor.cs: d52e14652f14fd6e56a66a859653fea9 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettings.cs: 01e68fef49e5cbf622bb7b4ffc622d89 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: 9ee20e5672fe3bf1f84b928c077dd487 -> 
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 3b21fcb478e01e192c765332f617d70d -> 
+  custom:scripting/monoscript/fileName/XRManagerEditor.cs: 6847a9ea85cd2d801d895b625e9590ff -> 
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: cf53e16640493eed09c0a9bcf5e6d26a -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/StringDatum.cs: d477c3d9644054c4cdbfe58cd4210fc0 -> 
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 7d654a2b5b3a10da3e7d8472196e96d1 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: 19f997bb849a2416cd94c1cb63aa4f77 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: d35f98e49313ad0817835473a2d39b7f -> 
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BuildValidator.cs: c3aeddb666325043f13d5a964eeb8e0d -> 
+  custom:scripting/monoscript/fileName/IAndroidManifestRequirementProvider.cs: 42bf6f4b06629c812bd73f8ff461fec4 -> 
+  custom:scripting/monoscript/fileName/XRBuildProcessorHelper.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 5cab67c578494ca6880fc9efed7eda83 -> 
+  custom:scripting/monoscript/fileName/TypeLoaderExtensions.cs: ee5d3b5e5d81c98c5d3594e8b9153df0 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.XR.LegacyInputHelpers: da96c0e3ee4a99cfbe3f49c08ef62202 -> 
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: c055b9f82b217657ed26eec1a091686a -> 126e7804497058d31bc25b31f242e0f0
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: 102f3fdbb4e7dadde0b1c3f60e974b6f -> 
+  custom:scripting/monoscript/fileName/XRConfigurationProvider.cs: fa91ddd62be7b4c45bfd03890af30249 -> 
+  custom:scripting/monoscript/fileName/EditorUtilities.cs: 219d482e32bf0c01357e773617418955 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitialization.cs: 1f095dd277a284b59543541a608de1da -> 
+  custom:scripting/monoscript/fileName/EventBinding.cs: 57939feae70c39d5d7b259d56a13d4da -> 
+  custom:scripting/monoscript/fileName/ManifestElement.cs: c30b57498d373b7476c4d7dfdaee189c -> 
+  custom:scripting/monoscript/fileName/KnownPackages.cs: 8647f39ea28525d7cb72646ed790f6ec -> 
+  custom:scripting/monoscript/fileName/XREditorWorkQueue.cs: 8e928039a032f154dc8a86537aaac69a -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management: d2c73419a402f326215288c4e1611bce -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils: a7b154bc9ad05edf96e65ca25e872d7a -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 2fd2f508ff2826ba59792870d9c1f91d -> 
+  custom:scripting/monoscript/fileName/SwingArmModel.cs: b785e28c94fc60fc17e1daa28892b2dc -> 
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
+  custom:scripting/monoscript/fileName/ManifestRequirement.cs: d0237042ed94ccc3267a409cde8490a6 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: 2af944bee2b617e7ec6b3e7a0e3fadc8 -> 
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 32d48c1ce2e2a96b72bee78a51a5306f -> 
+  custom:scripting/monoscript/fileName/ArmModel.cs: 453296f093348abde426c4384ad89b48 -> 
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: 0136c7e06583b34e918f9531ef849871 -> 
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: bc8db2fc4add667bd74ebc1d7aeedf63 -> 
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: ff60d9139f1c67e4ef14a932c8953dd3 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: d832ed1fb4bcff52c32231feef759588 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils.Editor: 53994e8011deb8ddcaa91166a62ce9f0 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/XRConstants.cs: 1558884a4b0ea94b4910dd640a0e6741 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SwingArmModelEditor.cs: b9619a265ade6da0cba147c75ce515a7 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: 3515ce5f59c8813c1b42365c62110624 -> 
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: b8f84d6112ffc5b06d2d522a8c830bb0 -> 
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: d95eb104a3ef3c6ae92507bce7881df3 -> 
+  custom:scripting/monoscript/fileName/PackageNotificationUtils.cs: e493f521fc1755dec19875ae28a4f621 -> 
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: 22b86e6be82caa28b03f585d1da7a237 -> 
+  custom:scripting/monoscript/fileName/XRManagementAnalytics.cs: 546181baf4c03dbbd57015a6731508f8 -> 
+  custom:scripting/monoscript/fileName/UndoBlock.cs: bc46b6201606aca58a8d08e7a8630eb5 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModelEditor.cs: 6f53e2a966c4ba4985525963dcf7d0ab -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadataStore.cs: e06e5e9ffca9529e9db63900dd9caf32 -> 
+  custom:scripting/monoscript/fileName/XRPackage.cs: f2edbbf87f9b798abaf2a9f285d155f5 -> 
+  custom:scripting/monoscript/fileName/CameraOffsetEditor.cs: 063c409eda0f5d6811c327c4b5c05de0 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: 084445b05dff6018ed26483427ba66b1 -> 
+  custom:scripting/monoscript/fileName/Datum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BasePoseProvider.cs: 9a4470e47f250d9ee83dd1e5b0c8d4fb -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: fdac1796d7a60dd2a972e3ad84676279 -> bce7f3076984999dee21f7e6ecec3970
+  custom:scripting/monoscript/fileName/CameraOffset.cs: 48495ef795ef97b0c04851d617a81ec1 -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfoManager.cs: 28efaa63edac30b89ccc35ca2bf149fa -> 
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/XRConfigurationData.cs: 2cf07b13d54bfee2898ed6dc38612fbb -> 
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: 328e21e115aab576f0c2cc1740fc8a41 -> 
+  custom:scripting/monoscript/fileName/GuidUtil.cs: d1f5a09d9fee592e550b9629f93c4c63 -> 
+  custom:scripting/monoscript/fileName/HashSetList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: 3d475b7a59d03e48e843cee54ceb3c66 -> 
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 4f96c234827c9f502739689050ba31d7 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 685579ed12ed358773bc7d3b51ac57c3 -> 
+  custom:scripting/precompiled-assembly-types:Oculus.VR.Editor: 2630c14bd2789c0e181a8771fe0a4f14 -> 12dfbc4129e33636b8c4fd576d061dea
+  custom:scripting/monoscript/fileName/AndroidManifestDocument.cs: 4c38ca7417a5355dfe2fd0b706ad71e8 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: 7a005b62071f13d631a735bf21acdb5f -> 
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 51a572f09881fdb3c39d970c12b34b19 -> 
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: 701dfba7f7aa88c832d5efa6a6401b52 -> 
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 8f48fdf9d37d552791296f3db18d7293 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitializationSettings.cs: 2f743437d3b09c9a4a5a33e9be971b1a -> 
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 0c9e3ca7d66e4634b955f155129c5358 -> 
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 9320588873bc402103b6c71239087d46 -> 
+  custom:scripting/monoscript/fileName/FloatDatum.cs: 6bf8df8dd116e6869317b96cc2832ced -> 
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 96e72c8c385206675c182d08a61247f8 -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadata.cs: 16731333f575d8bc31df496aced36ebf -> 
+  custom:scripting/monoscript/fileName/XRManagerSettings.cs: 39a1227fa3c478af29a735ec246b6baf -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: 0f86b0866157a0dbfedd6e4123adccda -> 
+  custom:scripting/monoscript/fileName/XRLegacyUninstaller.cs: b85851af39f83959c5c298effbf32139 -> 
+  custom:scripting/monoscript/fileName/XRCustomLoaderUIManager.cs: 4be5a8f671a1d808dd1496961b79b86b -> 
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: fc1b8263d625f16a6826517266eeadca -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: c326bbe7a44f6ecb2a7d5ff8856f9cac -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ListExtensions.cs: dc08b0e81401b7052a787865553578e4 -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.XR.LegacyInputHelpers: 52acfc53051faf8d3716fd452f740f78 -> 
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: 77ae464d731fc089fa2dce81bad0a315 -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: c2dd418db18ce47e0c417bface05337e -> 
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: aa5c1a415a84802ad5740b78a5ea2ab8 -> 
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 21.38 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.28 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (401.8 KB). Loaded Objects now: 3563.
+Memory consumption went from 87.4 MB to 87.0 MB.
+Total: 8.497100 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.078100 ms MarkObjects: 7.959300 ms  DeleteObjects: 0.239600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: dff3a5e3d2e750b79733c68dda740daa -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 86183419535e375187b30a3762578554 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: c92ab8c5df14d125f81d8a6aa11553f0 -> 
+  custom:scripting/monoscript/fileName/ArmModelEditor.cs: 002f07458c7aefa2a394e7243ccd9325 -> 
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2bc994238684257d0f665045b3a43e06 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsBase.cs: 180fb79df8b151d76987ec95d44be466 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModel.cs: 541081f84a463fbdbaf51de62d6c8587 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 0c99915cc85610c8aa07a821d95f5c4d -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsUpgrade.cs: cc8d2e81204b3fd0e662cd38ef4a2d49 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: ca0d817c6fa6ba59dd0d9d3d718f0246 -> 
+  custom:scripting/monoscript/fileName/XROrigin.cs: 6b2a8b745f3d38726455a3f4abd0a820 -> 
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e00360e257a3a721ac63e6db0a100b5f -> 125406ea1c6b6d8dd8804e5d3843d2f6
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 898d09e2ae7995590612a461468d4931 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriverEditor.cs: 0b511e14ae4c20f3b8d8e2c82796f595 -> 
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: b1913ce2490a4f8dfdca5a234bf8dc5a -> 
+  custom:scripting/monoscript/fileName/MathUtility.cs: 7101ed9f86b2bfdaf67ab4303cc98ede -> 
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 3985abc2203031081ddfa0f123a86da4 -> 856b5133026de96b7876a6750e496dcf
+  custom:scripting/monoscript/fileName/XRCustomLoaderUI.cs: a1b6225426bb5004db8b9d7388fe5771 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: f518b6574816de2472e535eaf8315248 -> 
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: ecfd114d63bf0d449c41f7f6c6fbd5f2 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriver.cs: 7c652bf9e4ac4ec3dd58bf53ae85a810 -> 
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 6148b56b6bc69c6c610d0bffd8a8a751 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: c4213bb88259ca88e9173f72358828a5 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management.Editor: 875e2b70b899c8e4d1c2d41f9404c56a -> 
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 21f04f1b94377c8ad9d3b1908a67282d -> 
+  custom:scripting/monoscript/fileName/EditorUtils.cs: a5caa48634245734f9c5a18079fb3381 -> 
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 04e2b738e62ba02835186f5368bff217 -> 
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: c8c31f9885823d0f32b1b137fa5d5cf7 -> b769a36b5fb43e0cf43056af8e4e5bca
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 0a3ecf20ea398b07067a97ad700896f0 -> 
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: adaf2ae3d3fb4c625dfb5150d3290bb4 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: 8fc062c0477f4d6714e20e8bad4aebcf -> 
+  custom:scripting/monoscript/fileName/XRLoaderHelper.cs: ae85c4c4a11fcc1ed3393963333e400c -> 
+  custom:scripting/monoscript/fileName/XRPluginManagementProjectValidation.cs: 12841b9f0a8da6fb46dd05260375325e -> 
+  custom:scripting/monoscript/fileName/XRLoader.cs: d82cec0b87bab7dffe74fb3651887ce3 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 072e031db5bbf098e79987e2ab2e6415 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsPerBuildTarget.cs: 6970e5bff368910038049eb1434facbf -> 
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 81379e00ae2b5ce5cabbbaee7a2dcc3b -> 
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: d6ff3f82563bc8b5b53669110b89ef7f -> 
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: d8a27b8787df350ae61a698ef53e5d49 -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: e83421b33155ae37d2c0a7e754ca69bc -> 
+  custom:scripting/monoscript/fileName/XRSupportedBuildTargetAttribute.cs: f87a91ba911f6030453bea8d921b45d2 -> 
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: a009f5fc4b39ebfe6ee20607ff6eb8b8 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestProcessor.cs: d8dd4961c18e43fcd707eb950405363a -> 
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 758c8c41ef41be8a387763b06832b3c4 -> 
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.SpatialTracking: fe8bd671b41f1462276b731bbb32d826 -> 
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: c0b300e342f12c77737b8543de36271c -> 
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: aa0caa3b2cf92bd9fd4fb50854e801fa -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfo.cs: 86fa513bfc04d58509db292069910bf2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SeedXRInputBindings.cs: 5b6b70752ca7062d0525af0428bab981 -> 
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 92363ef411ca3ab811a667b9e498049a -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.SpatialTracking: dd1905b8a8246178a3248fba44980e0b -> 
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bedfd4ae31cd285d91eb7454afab43d1 -> f6675c902fe9aabb868e66a1b96d84ff
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: 2d9ed55d97ae69e39f7e3f328b4b572b -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IntDatum.cs: eba3d5990e1ba42fccdc328943c9a374 -> 
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: ea6b89adb16ad7f7f80f8867b8a4a7b3 -> 7bb8abc112be6fa55399c70eceddd0e6
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 86b409a439be434295129394136400b6 -> 0b589b0714ff47938a80aaea39f2ad73
+  custom:scripting/monoscript/fileName/BuildHelpers.cs: 52ee9552b5cbbfe4eb60d480e36ffff5 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: a5da988eaeb4ec8c47ec6d3f399aae82 -> 
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: 7ae964814ae51b3db69ee982b4487eb7 -> 
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: d619c9ffdf67a2584c4c280b62801420 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: c3e8d16f0025fde8dfae950741c9e809 -> 
+  custom:scripting/monoscript/fileName/XRSettingsManager.cs: 701988ef3c16e84d3bc781477493ab34 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: d89574041e110f94e351c59305ce1729 -> 
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: fdb9be428c56110bf4ed66fc84f3e289 -> 
+  custom:scripting/monoscript/fileName/IXRLoaderPreInit.cs: 4dbca4fbe4a89e2a18943694f414e3a9 -> 
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: ee194275fc072b5305145812281b99b4 -> 
+  custom:scripting/monoscript/fileName/XRLoaderOrderUI.cs: 7bb0491ac9109774b097f2da80cd0c03 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestBuildEventReceiver.cs: 641c0bff5eb90d0569a809ea302132ee -> 
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: 27ad0f59d0e93e7f397d852162dabbef -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/XRGeneralBuildProcessor.cs: d52e14652f14fd6e56a66a859653fea9 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettings.cs: 01e68fef49e5cbf622bb7b4ffc622d89 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: 9ee20e5672fe3bf1f84b928c077dd487 -> 
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 3b21fcb478e01e192c765332f617d70d -> 
+  custom:scripting/monoscript/fileName/XRManagerEditor.cs: 6847a9ea85cd2d801d895b625e9590ff -> 
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: cf53e16640493eed09c0a9bcf5e6d26a -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/StringDatum.cs: d477c3d9644054c4cdbfe58cd4210fc0 -> 
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 7d654a2b5b3a10da3e7d8472196e96d1 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: 19f997bb849a2416cd94c1cb63aa4f77 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: d35f98e49313ad0817835473a2d39b7f -> 
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BuildValidator.cs: c3aeddb666325043f13d5a964eeb8e0d -> 
+  custom:scripting/monoscript/fileName/IAndroidManifestRequirementProvider.cs: 42bf6f4b06629c812bd73f8ff461fec4 -> 
+  custom:scripting/monoscript/fileName/XRBuildProcessorHelper.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 5cab67c578494ca6880fc9efed7eda83 -> 
+  custom:scripting/monoscript/fileName/TypeLoaderExtensions.cs: ee5d3b5e5d81c98c5d3594e8b9153df0 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.XR.LegacyInputHelpers: da96c0e3ee4a99cfbe3f49c08ef62202 -> 
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: c055b9f82b217657ed26eec1a091686a -> 126e7804497058d31bc25b31f242e0f0
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: 102f3fdbb4e7dadde0b1c3f60e974b6f -> 
+  custom:scripting/monoscript/fileName/XRConfigurationProvider.cs: fa91ddd62be7b4c45bfd03890af30249 -> 
+  custom:scripting/monoscript/fileName/EditorUtilities.cs: 219d482e32bf0c01357e773617418955 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitialization.cs: 1f095dd277a284b59543541a608de1da -> 
+  custom:scripting/monoscript/fileName/EventBinding.cs: 57939feae70c39d5d7b259d56a13d4da -> 
+  custom:scripting/monoscript/fileName/ManifestElement.cs: c30b57498d373b7476c4d7dfdaee189c -> 
+  custom:scripting/monoscript/fileName/KnownPackages.cs: 8647f39ea28525d7cb72646ed790f6ec -> 
+  custom:scripting/monoscript/fileName/XREditorWorkQueue.cs: 8e928039a032f154dc8a86537aaac69a -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management: d2c73419a402f326215288c4e1611bce -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils: a7b154bc9ad05edf96e65ca25e872d7a -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 2fd2f508ff2826ba59792870d9c1f91d -> 
+  custom:scripting/monoscript/fileName/SwingArmModel.cs: b785e28c94fc60fc17e1daa28892b2dc -> 
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
+  custom:scripting/monoscript/fileName/ManifestRequirement.cs: d0237042ed94ccc3267a409cde8490a6 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: 2af944bee2b617e7ec6b3e7a0e3fadc8 -> 
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 32d48c1ce2e2a96b72bee78a51a5306f -> 
+  custom:scripting/monoscript/fileName/ArmModel.cs: 453296f093348abde426c4384ad89b48 -> 
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: 0136c7e06583b34e918f9531ef849871 -> 
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: bc8db2fc4add667bd74ebc1d7aeedf63 -> 
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: ff60d9139f1c67e4ef14a932c8953dd3 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: d832ed1fb4bcff52c32231feef759588 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils.Editor: 53994e8011deb8ddcaa91166a62ce9f0 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/XRConstants.cs: 1558884a4b0ea94b4910dd640a0e6741 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SwingArmModelEditor.cs: b9619a265ade6da0cba147c75ce515a7 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: 3515ce5f59c8813c1b42365c62110624 -> 
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: b8f84d6112ffc5b06d2d522a8c830bb0 -> 
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: d95eb104a3ef3c6ae92507bce7881df3 -> 
+  custom:scripting/monoscript/fileName/PackageNotificationUtils.cs: e493f521fc1755dec19875ae28a4f621 -> 
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: 22b86e6be82caa28b03f585d1da7a237 -> 
+  custom:scripting/monoscript/fileName/XRManagementAnalytics.cs: 546181baf4c03dbbd57015a6731508f8 -> 
+  custom:scripting/monoscript/fileName/UndoBlock.cs: bc46b6201606aca58a8d08e7a8630eb5 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModelEditor.cs: 6f53e2a966c4ba4985525963dcf7d0ab -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadataStore.cs: e06e5e9ffca9529e9db63900dd9caf32 -> 
+  custom:scripting/monoscript/fileName/XRPackage.cs: f2edbbf87f9b798abaf2a9f285d155f5 -> 
+  custom:scripting/monoscript/fileName/CameraOffsetEditor.cs: 063c409eda0f5d6811c327c4b5c05de0 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: 084445b05dff6018ed26483427ba66b1 -> 
+  custom:scripting/monoscript/fileName/Datum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BasePoseProvider.cs: 9a4470e47f250d9ee83dd1e5b0c8d4fb -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: fdac1796d7a60dd2a972e3ad84676279 -> bce7f3076984999dee21f7e6ecec3970
+  custom:scripting/monoscript/fileName/CameraOffset.cs: 48495ef795ef97b0c04851d617a81ec1 -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfoManager.cs: 28efaa63edac30b89ccc35ca2bf149fa -> 
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/XRConfigurationData.cs: 2cf07b13d54bfee2898ed6dc38612fbb -> 
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: 328e21e115aab576f0c2cc1740fc8a41 -> 
+  custom:scripting/monoscript/fileName/GuidUtil.cs: d1f5a09d9fee592e550b9629f93c4c63 -> 
+  custom:scripting/monoscript/fileName/HashSetList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: 3d475b7a59d03e48e843cee54ceb3c66 -> 
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 4f96c234827c9f502739689050ba31d7 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 685579ed12ed358773bc7d3b51ac57c3 -> 
+  custom:scripting/precompiled-assembly-types:Oculus.VR.Editor: 2630c14bd2789c0e181a8771fe0a4f14 -> 12dfbc4129e33636b8c4fd576d061dea
+  custom:scripting/monoscript/fileName/AndroidManifestDocument.cs: 4c38ca7417a5355dfe2fd0b706ad71e8 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: 7a005b62071f13d631a735bf21acdb5f -> 
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 51a572f09881fdb3c39d970c12b34b19 -> 
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: 701dfba7f7aa88c832d5efa6a6401b52 -> 
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 8f48fdf9d37d552791296f3db18d7293 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitializationSettings.cs: 2f743437d3b09c9a4a5a33e9be971b1a -> 
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 0c9e3ca7d66e4634b955f155129c5358 -> 
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 9320588873bc402103b6c71239087d46 -> 
+  custom:scripting/monoscript/fileName/FloatDatum.cs: 6bf8df8dd116e6869317b96cc2832ced -> 
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 96e72c8c385206675c182d08a61247f8 -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadata.cs: 16731333f575d8bc31df496aced36ebf -> 
+  custom:scripting/monoscript/fileName/XRManagerSettings.cs: 39a1227fa3c478af29a735ec246b6baf -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: 0f86b0866157a0dbfedd6e4123adccda -> 
+  custom:scripting/monoscript/fileName/XRLegacyUninstaller.cs: b85851af39f83959c5c298effbf32139 -> 
+  custom:scripting/monoscript/fileName/XRCustomLoaderUIManager.cs: 4be5a8f671a1d808dd1496961b79b86b -> 
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: fc1b8263d625f16a6826517266eeadca -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: c326bbe7a44f6ecb2a7d5ff8856f9cac -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ListExtensions.cs: dc08b0e81401b7052a787865553578e4 -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.XR.LegacyInputHelpers: 52acfc53051faf8d3716fd452f740f78 -> 
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: 77ae464d731fc089fa2dce81bad0a315 -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: c2dd418db18ce47e0c417bface05337e -> 
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: aa5c1a415a84802ad5740b78a5ea2ab8 -> 
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 29.31 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.47 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (410.1 KB). Loaded Objects now: 3563.
+Memory consumption went from 87.4 MB to 87.0 MB.
+Total: 9.437700 ms (FindLiveObjects: 0.368900 ms CreateObjectMapping: 0.098200 ms MarkObjects: 8.683800 ms  DeleteObjects: 0.285500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: dff3a5e3d2e750b79733c68dda740daa -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 86183419535e375187b30a3762578554 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: c92ab8c5df14d125f81d8a6aa11553f0 -> 
+  custom:scripting/monoscript/fileName/ArmModelEditor.cs: 002f07458c7aefa2a394e7243ccd9325 -> 
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2bc994238684257d0f665045b3a43e06 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsBase.cs: 180fb79df8b151d76987ec95d44be466 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModel.cs: 541081f84a463fbdbaf51de62d6c8587 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 0c99915cc85610c8aa07a821d95f5c4d -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsUpgrade.cs: cc8d2e81204b3fd0e662cd38ef4a2d49 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: ca0d817c6fa6ba59dd0d9d3d718f0246 -> 
+  custom:scripting/monoscript/fileName/XROrigin.cs: 6b2a8b745f3d38726455a3f4abd0a820 -> 
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e00360e257a3a721ac63e6db0a100b5f -> 125406ea1c6b6d8dd8804e5d3843d2f6
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 898d09e2ae7995590612a461468d4931 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriverEditor.cs: 0b511e14ae4c20f3b8d8e2c82796f595 -> 
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: b1913ce2490a4f8dfdca5a234bf8dc5a -> 
+  custom:scripting/monoscript/fileName/MathUtility.cs: 7101ed9f86b2bfdaf67ab4303cc98ede -> 
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 3985abc2203031081ddfa0f123a86da4 -> 856b5133026de96b7876a6750e496dcf
+  custom:scripting/monoscript/fileName/XRCustomLoaderUI.cs: a1b6225426bb5004db8b9d7388fe5771 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: f518b6574816de2472e535eaf8315248 -> 
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: ecfd114d63bf0d449c41f7f6c6fbd5f2 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriver.cs: 7c652bf9e4ac4ec3dd58bf53ae85a810 -> 
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 6148b56b6bc69c6c610d0bffd8a8a751 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: c4213bb88259ca88e9173f72358828a5 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management.Editor: 875e2b70b899c8e4d1c2d41f9404c56a -> 
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 21f04f1b94377c8ad9d3b1908a67282d -> 
+  custom:scripting/monoscript/fileName/EditorUtils.cs: a5caa48634245734f9c5a18079fb3381 -> 
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 04e2b738e62ba02835186f5368bff217 -> 
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: c8c31f9885823d0f32b1b137fa5d5cf7 -> b769a36b5fb43e0cf43056af8e4e5bca
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 0a3ecf20ea398b07067a97ad700896f0 -> 
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: adaf2ae3d3fb4c625dfb5150d3290bb4 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: 8fc062c0477f4d6714e20e8bad4aebcf -> 
+  custom:scripting/monoscript/fileName/XRLoaderHelper.cs: ae85c4c4a11fcc1ed3393963333e400c -> 
+  custom:scripting/monoscript/fileName/XRPluginManagementProjectValidation.cs: 12841b9f0a8da6fb46dd05260375325e -> 
+  custom:scripting/monoscript/fileName/XRLoader.cs: d82cec0b87bab7dffe74fb3651887ce3 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 072e031db5bbf098e79987e2ab2e6415 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsPerBuildTarget.cs: 6970e5bff368910038049eb1434facbf -> 
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 81379e00ae2b5ce5cabbbaee7a2dcc3b -> 
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: d6ff3f82563bc8b5b53669110b89ef7f -> 
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: d8a27b8787df350ae61a698ef53e5d49 -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: e83421b33155ae37d2c0a7e754ca69bc -> 
+  custom:scripting/monoscript/fileName/XRSupportedBuildTargetAttribute.cs: f87a91ba911f6030453bea8d921b45d2 -> 
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: a009f5fc4b39ebfe6ee20607ff6eb8b8 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestProcessor.cs: d8dd4961c18e43fcd707eb950405363a -> 
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 758c8c41ef41be8a387763b06832b3c4 -> 
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.SpatialTracking: fe8bd671b41f1462276b731bbb32d826 -> 
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: c0b300e342f12c77737b8543de36271c -> 
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: aa0caa3b2cf92bd9fd4fb50854e801fa -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfo.cs: 86fa513bfc04d58509db292069910bf2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SeedXRInputBindings.cs: 5b6b70752ca7062d0525af0428bab981 -> 
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 92363ef411ca3ab811a667b9e498049a -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.SpatialTracking: dd1905b8a8246178a3248fba44980e0b -> 
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bedfd4ae31cd285d91eb7454afab43d1 -> f6675c902fe9aabb868e66a1b96d84ff
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: 2d9ed55d97ae69e39f7e3f328b4b572b -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IntDatum.cs: eba3d5990e1ba42fccdc328943c9a374 -> 
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: ea6b89adb16ad7f7f80f8867b8a4a7b3 -> 7bb8abc112be6fa55399c70eceddd0e6
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 86b409a439be434295129394136400b6 -> 0b589b0714ff47938a80aaea39f2ad73
+  custom:scripting/monoscript/fileName/BuildHelpers.cs: 52ee9552b5cbbfe4eb60d480e36ffff5 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: a5da988eaeb4ec8c47ec6d3f399aae82 -> 
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: 7ae964814ae51b3db69ee982b4487eb7 -> 
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: d619c9ffdf67a2584c4c280b62801420 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: c3e8d16f0025fde8dfae950741c9e809 -> 
+  custom:scripting/monoscript/fileName/XRSettingsManager.cs: 701988ef3c16e84d3bc781477493ab34 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: d89574041e110f94e351c59305ce1729 -> 
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: fdb9be428c56110bf4ed66fc84f3e289 -> 
+  custom:scripting/monoscript/fileName/IXRLoaderPreInit.cs: 4dbca4fbe4a89e2a18943694f414e3a9 -> 
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: ee194275fc072b5305145812281b99b4 -> 
+  custom:scripting/monoscript/fileName/XRLoaderOrderUI.cs: 7bb0491ac9109774b097f2da80cd0c03 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestBuildEventReceiver.cs: 641c0bff5eb90d0569a809ea302132ee -> 
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: 27ad0f59d0e93e7f397d852162dabbef -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/XRGeneralBuildProcessor.cs: d52e14652f14fd6e56a66a859653fea9 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettings.cs: 01e68fef49e5cbf622bb7b4ffc622d89 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: 9ee20e5672fe3bf1f84b928c077dd487 -> 
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 3b21fcb478e01e192c765332f617d70d -> 
+  custom:scripting/monoscript/fileName/XRManagerEditor.cs: 6847a9ea85cd2d801d895b625e9590ff -> 
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: cf53e16640493eed09c0a9bcf5e6d26a -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/StringDatum.cs: d477c3d9644054c4cdbfe58cd4210fc0 -> 
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 7d654a2b5b3a10da3e7d8472196e96d1 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: 19f997bb849a2416cd94c1cb63aa4f77 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: d35f98e49313ad0817835473a2d39b7f -> 
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BuildValidator.cs: c3aeddb666325043f13d5a964eeb8e0d -> 
+  custom:scripting/monoscript/fileName/IAndroidManifestRequirementProvider.cs: 42bf6f4b06629c812bd73f8ff461fec4 -> 
+  custom:scripting/monoscript/fileName/XRBuildProcessorHelper.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 5cab67c578494ca6880fc9efed7eda83 -> 
+  custom:scripting/monoscript/fileName/TypeLoaderExtensions.cs: ee5d3b5e5d81c98c5d3594e8b9153df0 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.XR.LegacyInputHelpers: da96c0e3ee4a99cfbe3f49c08ef62202 -> 
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: c055b9f82b217657ed26eec1a091686a -> 126e7804497058d31bc25b31f242e0f0
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: 102f3fdbb4e7dadde0b1c3f60e974b6f -> 
+  custom:scripting/monoscript/fileName/XRConfigurationProvider.cs: fa91ddd62be7b4c45bfd03890af30249 -> 
+  custom:scripting/monoscript/fileName/EditorUtilities.cs: 219d482e32bf0c01357e773617418955 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitialization.cs: 1f095dd277a284b59543541a608de1da -> 
+  custom:scripting/monoscript/fileName/EventBinding.cs: 57939feae70c39d5d7b259d56a13d4da -> 
+  custom:scripting/monoscript/fileName/ManifestElement.cs: c30b57498d373b7476c4d7dfdaee189c -> 
+  custom:scripting/monoscript/fileName/KnownPackages.cs: 8647f39ea28525d7cb72646ed790f6ec -> 
+  custom:scripting/monoscript/fileName/XREditorWorkQueue.cs: 8e928039a032f154dc8a86537aaac69a -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management: d2c73419a402f326215288c4e1611bce -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils: a7b154bc9ad05edf96e65ca25e872d7a -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 2fd2f508ff2826ba59792870d9c1f91d -> 
+  custom:scripting/monoscript/fileName/SwingArmModel.cs: b785e28c94fc60fc17e1daa28892b2dc -> 
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
+  custom:scripting/monoscript/fileName/ManifestRequirement.cs: d0237042ed94ccc3267a409cde8490a6 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: 2af944bee2b617e7ec6b3e7a0e3fadc8 -> 
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 32d48c1ce2e2a96b72bee78a51a5306f -> 
+  custom:scripting/monoscript/fileName/ArmModel.cs: 453296f093348abde426c4384ad89b48 -> 
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: 0136c7e06583b34e918f9531ef849871 -> 
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: bc8db2fc4add667bd74ebc1d7aeedf63 -> 
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: ff60d9139f1c67e4ef14a932c8953dd3 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: d832ed1fb4bcff52c32231feef759588 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils.Editor: 53994e8011deb8ddcaa91166a62ce9f0 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/XRConstants.cs: 1558884a4b0ea94b4910dd640a0e6741 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SwingArmModelEditor.cs: b9619a265ade6da0cba147c75ce515a7 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: 3515ce5f59c8813c1b42365c62110624 -> 
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: b8f84d6112ffc5b06d2d522a8c830bb0 -> 
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: d95eb104a3ef3c6ae92507bce7881df3 -> 
+  custom:scripting/monoscript/fileName/PackageNotificationUtils.cs: e493f521fc1755dec19875ae28a4f621 -> 
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: 22b86e6be82caa28b03f585d1da7a237 -> 
+  custom:scripting/monoscript/fileName/XRManagementAnalytics.cs: 546181baf4c03dbbd57015a6731508f8 -> 
+  custom:scripting/monoscript/fileName/UndoBlock.cs: bc46b6201606aca58a8d08e7a8630eb5 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModelEditor.cs: 6f53e2a966c4ba4985525963dcf7d0ab -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadataStore.cs: e06e5e9ffca9529e9db63900dd9caf32 -> 
+  custom:scripting/monoscript/fileName/XRPackage.cs: f2edbbf87f9b798abaf2a9f285d155f5 -> 
+  custom:scripting/monoscript/fileName/CameraOffsetEditor.cs: 063c409eda0f5d6811c327c4b5c05de0 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: 084445b05dff6018ed26483427ba66b1 -> 
+  custom:scripting/monoscript/fileName/Datum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BasePoseProvider.cs: 9a4470e47f250d9ee83dd1e5b0c8d4fb -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: fdac1796d7a60dd2a972e3ad84676279 -> bce7f3076984999dee21f7e6ecec3970
+  custom:scripting/monoscript/fileName/CameraOffset.cs: 48495ef795ef97b0c04851d617a81ec1 -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfoManager.cs: 28efaa63edac30b89ccc35ca2bf149fa -> 
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/XRConfigurationData.cs: 2cf07b13d54bfee2898ed6dc38612fbb -> 
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: 328e21e115aab576f0c2cc1740fc8a41 -> 
+  custom:scripting/monoscript/fileName/GuidUtil.cs: d1f5a09d9fee592e550b9629f93c4c63 -> 
+  custom:scripting/monoscript/fileName/HashSetList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: 3d475b7a59d03e48e843cee54ceb3c66 -> 
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 4f96c234827c9f502739689050ba31d7 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 685579ed12ed358773bc7d3b51ac57c3 -> 
+  custom:scripting/precompiled-assembly-types:Oculus.VR.Editor: 2630c14bd2789c0e181a8771fe0a4f14 -> 12dfbc4129e33636b8c4fd576d061dea
+  custom:scripting/monoscript/fileName/AndroidManifestDocument.cs: 4c38ca7417a5355dfe2fd0b706ad71e8 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: 7a005b62071f13d631a735bf21acdb5f -> 
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 51a572f09881fdb3c39d970c12b34b19 -> 
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: 701dfba7f7aa88c832d5efa6a6401b52 -> 
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 8f48fdf9d37d552791296f3db18d7293 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitializationSettings.cs: 2f743437d3b09c9a4a5a33e9be971b1a -> 
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 0c9e3ca7d66e4634b955f155129c5358 -> 
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 9320588873bc402103b6c71239087d46 -> 
+  custom:scripting/monoscript/fileName/FloatDatum.cs: 6bf8df8dd116e6869317b96cc2832ced -> 
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 96e72c8c385206675c182d08a61247f8 -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadata.cs: 16731333f575d8bc31df496aced36ebf -> 
+  custom:scripting/monoscript/fileName/XRManagerSettings.cs: 39a1227fa3c478af29a735ec246b6baf -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: 0f86b0866157a0dbfedd6e4123adccda -> 
+  custom:scripting/monoscript/fileName/XRLegacyUninstaller.cs: b85851af39f83959c5c298effbf32139 -> 
+  custom:scripting/monoscript/fileName/XRCustomLoaderUIManager.cs: 4be5a8f671a1d808dd1496961b79b86b -> 
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: fc1b8263d625f16a6826517266eeadca -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: c326bbe7a44f6ecb2a7d5ff8856f9cac -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ListExtensions.cs: dc08b0e81401b7052a787865553578e4 -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.XR.LegacyInputHelpers: 52acfc53051faf8d3716fd452f740f78 -> 
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: 77ae464d731fc089fa2dce81bad0a315 -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: c2dd418db18ce47e0c417bface05337e -> 
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: aa5c1a415a84802ad5740b78a5ea2ab8 -> 
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+========================================================================
+Received Prepare
+Shader 'Meta/MRUK/Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 23.31 ms, found 8 plugins.
+Preloading 2 native plugins for Editor in 0.29 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets / (402.1 KB). Loaded Objects now: 3563.
+Memory consumption went from 87.4 MB to 87.0 MB.
+Total: 6.115300 ms (FindLiveObjects: 0.225800 ms CreateObjectMapping: 0.080300 ms MarkObjects: 5.530200 ms  DeleteObjects: 0.278400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnumValues.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfileSelection.cs: dff3a5e3d2e750b79733c68dda740daa -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/EditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/QuaternionExtensions.cs: 86183419535e375187b30a3762578554 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockManager.cs: c92ab8c5df14d125f81d8a6aa11553f0 -> 
+  custom:scripting/monoscript/fileName/ArmModelEditor.cs: 002f07458c7aefa2a394e7243ccd9325 -> 
+  custom:scripting/monoscript/fileName/BindableVariableAlloc.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CapabilityKeysDefinition.cs: 2bc994238684257d0f665045b3a43e06 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsBase.cs: 180fb79df8b151d76987ec95d44be466 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModel.cs: 541081f84a463fbdbaf51de62d6c8587 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/CollectionExtensions.cs: 0c99915cc85610c8aa07a821d95f5c4d -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsUpgrade.cs: cc8d2e81204b3fd0e662cd38ef4a2d49 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationSettingsProvider.cs: ca0d817c6fa6ba59dd0d9d3d718f0246 -> 
+  custom:scripting/monoscript/fileName/XROrigin.cs: 6b2a8b745f3d38726455a3f4abd0a820 -> 
+  custom:scripting/monoscript/fileName/TypeExtensions.cs: e00360e257a3a721ac63e6db0a100b5f -> 125406ea1c6b6d8dd8804e5d3843d2f6
+  custom:scripting/monoscript/fileName/ReadOnlyPropertyDrawer.cs: 898d09e2ae7995590612a461468d4931 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriverEditor.cs: 0b511e14ae4c20f3b8d8e2c82796f595 -> 
+  custom:scripting/monoscript/fileName/BoundsUtils.cs: b1913ce2490a4f8dfdca5a234bf8dc5a -> 
+  custom:scripting/monoscript/fileName/MathUtility.cs: 7101ed9f86b2bfdaf67ab4303cc98ede -> 
+  custom:scripting/monoscript/fileName/Vector3Extensions.cs: 3985abc2203031081ddfa0f123a86da4 -> 856b5133026de96b7876a6750e496dcf
+  custom:scripting/monoscript/fileName/XRCustomLoaderUI.cs: a1b6225426bb5004db8b9d7388fe5771 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryDrawer.cs: f518b6574816de2472e535eaf8315248 -> 
+  custom:scripting/monoscript/fileName/BindableVariableTaskPredicate.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/ComponentUtils.cs: ecfd114d63bf0d449c41f7f6c6fbd5f2 -> 
+  custom:scripting/monoscript/fileName/TrackedPoseDriver.cs: 7c652bf9e4ac4ec3dd58bf53ae85a810 -> 
+  custom:scripting/monoscript/fileName/GameObjectExtensions.cs: 6148b56b6bc69c6c610d0bffd8a8a751 -> 
+  custom:scripting/monoscript/fileName/CapabilityProfile.cs: c4213bb88259ca88e9173f72358828a5 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management.Editor: 875e2b70b899c8e4d1c2d41f9404c56a -> 
+  custom:scripting/monoscript/fileName/SerializableGuid.cs: 21f04f1b94377c8ad9d3b1908a67282d -> 
+  custom:scripting/monoscript/fileName/EditorUtils.cs: a5caa48634245734f9c5a18079fb3381 -> 
+  custom:scripting/monoscript/fileName/PoseExtensions.cs: 04e2b738e62ba02835186f5368bff217 -> 
+  custom:scripting/monoscript/fileName/ReflectionUtils.cs: c8c31f9885823d0f32b1b137fa5d5cf7 -> b769a36b5fb43e0cf43056af8e4e5bca
+  custom:scripting/monoscript/fileName/StringExtensions.cs: 0a3ecf20ea398b07067a97ad700896f0 -> 
+  custom:scripting/monoscript/fileName/NativeArrayUtils.cs: adaf2ae3d3fb4c625dfb5150d3290bb4 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionary.cs: 8fc062c0477f4d6714e20e8bad4aebcf -> 
+  custom:scripting/monoscript/fileName/XRLoaderHelper.cs: ae85c4c4a11fcc1ed3393963333e400c -> 
+  custom:scripting/monoscript/fileName/XRPluginManagementProjectValidation.cs: 12841b9f0a8da6fb46dd05260375325e -> 
+  custom:scripting/monoscript/fileName/XRLoader.cs: d82cec0b87bab7dffe74fb3651887ce3 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/DebugDraw.cs: 072e031db5bbf098e79987e2ab2e6415 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettingsPerBuildTarget.cs: 6970e5bff368910038049eb1434facbf -> 
+  custom:scripting/monoscript/fileName/BuildingBlockElements.cs: 81379e00ae2b5ce5cabbbaee7a2dcc3b -> 
+  custom:scripting/monoscript/fileName/ReadOnlyAttribute.cs: d6ff3f82563bc8b5b53669110b89ef7f -> 
+  custom:scripting/monoscript/fileName/MaterialUtils.cs: d8a27b8787df350ae61a698ef53e5d49 -> 
+  custom:scripting/monoscript/fileName/BindingsGroup.cs: e83421b33155ae37d2c0a7e754ca69bc -> 
+  custom:scripting/monoscript/fileName/XRSupportedBuildTargetAttribute.cs: f87a91ba911f6030453bea8d921b45d2 -> 
+  custom:scripting/monoscript/fileName/DictionaryExtensions.cs: a009f5fc4b39ebfe6ee20607ff6eb8b8 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestProcessor.cs: d8dd4961c18e43fcd707eb950405363a -> 
+  custom:scripting/monoscript/fileName/ScreenGUIUtils.cs: 758c8c41ef41be8a387763b06832b3c4 -> 
+  custom:scripting/monoscript/fileName/EditorScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.SpatialTracking: fe8bd671b41f1462276b731bbb32d826 -> 
+  custom:scripting/monoscript/fileName/HashCodeUtil.cs: c0b300e342f12c77737b8543de36271c -> 
+  custom:scripting/monoscript/fileName/BuildingBlocksUsageEvent.cs: aa0caa3b2cf92bd9fd4fb50854e801fa -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfo.cs: 86fa513bfc04d58509db292069910bf2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DatumProperty.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SeedXRInputBindings.cs: 5b6b70752ca7062d0525af0428bab981 -> 
+  custom:scripting/monoscript/fileName/CoreUtilsEditorAnalyticsEvent.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IEventBinding.cs: 92363ef411ca3ab811a667b9e498049a -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.SpatialTracking: dd1905b8a8246178a3248fba44980e0b -> 
+  custom:scripting/monoscript/fileName/BoundsExtensions.cs: bedfd4ae31cd285d91eb7454afab43d1 -> f6675c902fe9aabb868e66a1b96d84ff
+  custom:scripting/monoscript/fileName/XROriginEditor.cs: 2d9ed55d97ae69e39f7e3f328b4b572b -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsProvider.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/IntDatum.cs: eba3d5990e1ba42fccdc328943c9a374 -> 
+  custom:scripting/monoscript/fileName/UnityEventExtensions.cs: ea6b89adb16ad7f7f80f8867b8a4a7b3 -> 7bb8abc112be6fa55399c70eceddd0e6
+  custom:scripting/monoscript/fileName/TransformExtensions.cs: 86b409a439be434295129394136400b6 -> 0b589b0714ff47938a80aaea39f2ad73
+  custom:scripting/monoscript/fileName/BuildHelpers.cs: 52ee9552b5cbbfe4eb60d480e36ffff5 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsPathAttribute.cs: a5da988eaeb4ec8c47ec6d3f399aae82 -> 
+  custom:scripting/monoscript/fileName/BuildValidationRule.cs: 7ae964814ae51b3db69ee982b4487eb7 -> 
+  custom:scripting/monoscript/fileName/StringDatumPropertyDrawer.cs: d619c9ffdf67a2584c4c280b62801420 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayPropertyDrawer.cs: c3e8d16f0025fde8dfae950741c9e809 -> 
+  custom:scripting/monoscript/fileName/XRSettingsManager.cs: 701988ef3c16e84d3bc781477493ab34 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettingsInitializer.cs: d89574041e110f94e351c59305ce1729 -> 
+  custom:scripting/monoscript/fileName/IReadOnlyBindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/LayerMaskExtensions.cs: fdb9be428c56110bf4ed66fc84f3e289 -> 
+  custom:scripting/monoscript/fileName/IXRLoaderPreInit.cs: 4dbca4fbe4a89e2a18943694f414e3a9 -> 
+  custom:scripting/monoscript/fileName/XRLoggingUtils.cs: ee194275fc072b5305145812281b99b4 -> 
+  custom:scripting/monoscript/fileName/XRLoaderOrderUI.cs: 7bb0491ac9109774b097f2da80cd0c03 -> 
+  custom:scripting/monoscript/fileName/AndroidManifestBuildEventReceiver.cs: 641c0bff5eb90d0569a809ea302132ee -> 
+  custom:scripting/monoscript/fileName/MonoBehaviourExtensions.cs: 27ad0f59d0e93e7f397d852162dabbef -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/XRGeneralBuildProcessor.cs: d52e14652f14fd6e56a66a859653fea9 -> 
+  custom:scripting/monoscript/fileName/XRGeneralSettings.cs: 01e68fef49e5cbf622bb7b4ffc622d89 -> 
+  custom:scripting/monoscript/fileName/CollectionPool.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyDrawer.cs: 9ee20e5672fe3bf1f84b928c077dd487 -> 
+  custom:scripting/monoscript/fileName/EditorPrefsUtils.cs: 3b21fcb478e01e192c765332f617d70d -> 
+  custom:scripting/monoscript/fileName/XRManagerEditor.cs: 6847a9ea85cd2d801d895b625e9590ff -> 
+  custom:scripting/monoscript/fileName/DatumPropertyDrawer.cs: cf53e16640493eed09c0a9bcf5e6d26a -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ScriptableSettings.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/StringDatum.cs: d477c3d9644054c4cdbfe58cd4210fc0 -> 
+  custom:scripting/monoscript/fileName/SerializableDictionary.cs: 7d654a2b5b3a10da3e7d8472196e96d1 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/BuildingBlockOverlay.cs: 19f997bb849a2416cd94c1cb63aa4f77 -> 
+  custom:scripting/monoscript/fileName/CapabilityDictionaryItemDrawer.cs: d35f98e49313ad0817835473a2d39b7f -> 
+  custom:scripting/monoscript/fileName/BindableVariableBase.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BuildValidator.cs: c3aeddb666325043f13d5a964eeb8e0d -> 
+  custom:scripting/monoscript/fileName/IAndroidManifestRequirementProvider.cs: 42bf6f4b06629c812bd73f8ff461fec4 -> 
+  custom:scripting/monoscript/fileName/XRBuildProcessorHelper.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/BindableEnum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/CameraExtensions.cs: 5cab67c578494ca6880fc9efed7eda83 -> 
+  custom:scripting/monoscript/fileName/TypeLoaderExtensions.cs: ee5d3b5e5d81c98c5d3594e8b9153df0 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.XR.LegacyInputHelpers: da96c0e3ee4a99cfbe3f49c08ef62202 -> 
+  custom:scripting/monoscript/fileName/HashSetExtensions.cs: c055b9f82b217657ed26eec1a091686a -> 126e7804497058d31bc25b31f242e0f0
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/UnityObjectUtils.cs: 102f3fdbb4e7dadde0b1c3f60e974b6f -> 
+  custom:scripting/monoscript/fileName/XRConfigurationProvider.cs: fa91ddd62be7b4c45bfd03890af30249 -> 
+  custom:scripting/monoscript/fileName/EditorUtilities.cs: 219d482e32bf0c01357e773617418955 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitialization.cs: 1f095dd277a284b59543541a608de1da -> 
+  custom:scripting/monoscript/fileName/EventBinding.cs: 57939feae70c39d5d7b259d56a13d4da -> 
+  custom:scripting/monoscript/fileName/ManifestElement.cs: c30b57498d373b7476c4d7dfdaee189c -> 
+  custom:scripting/monoscript/fileName/KnownPackages.cs: 8647f39ea28525d7cb72646ed790f6ec -> 
+  custom:scripting/monoscript/fileName/XREditorWorkQueue.cs: 8e928039a032f154dc8a86537aaac69a -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.Management: d2c73419a402f326215288c4e1611bce -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils: a7b154bc9ad05edf96e65ca25e872d7a -> 
+  custom:scripting/monoscript/fileName/StandardCapabilityKeys.cs: 2fd2f508ff2826ba59792870d9c1f91d -> 
+  custom:scripting/monoscript/fileName/SwingArmModel.cs: b785e28c94fc60fc17e1daa28892b2dc -> 
+  custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
+  custom:scripting/monoscript/fileName/ManifestRequirement.cs: d0237042ed94ccc3267a409cde8490a6 -> 
+  custom:scripting/monoscript/fileName/EnumDisplayAttribute.cs: 2af944bee2b617e7ec6b3e7a0e3fadc8 -> 
+  custom:scripting/monoscript/fileName/SerializableGuidUtil.cs: 32d48c1ce2e2a96b72bee78a51a5306f -> 
+  custom:scripting/monoscript/fileName/ArmModel.cs: 453296f093348abde426c4384ad89b48 -> 
+  custom:scripting/monoscript/fileName/IntDatumPropertyDrawer.cs: 0136c7e06583b34e918f9531ef849871 -> 
+  custom:scripting/monoscript/fileName/PrefabCreatorBuildingBlock.cs: bc8db2fc4add667bd74ebc1d7aeedf63 -> 
+  custom:scripting/monoscript/fileName/ARTrackablesParentTransformChangedEventArgs.cs: ff60d9139f1c67e4ef14a932c8953dd3 -> 
+  custom:scripting/monoscript/fileName/ProjectValidationUsageEvent.cs: d832ed1fb4bcff52c32231feef759588 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.CoreUtils.Editor: 53994e8011deb8ddcaa91166a62ce9f0 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/XRConstants.cs: 1558884a4b0ea94b4910dd640a0e6741 -> 
+  custom:scripting/monoscript/fileName/BindableVariable.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/SwingArmModelEditor.cs: b9619a265ade6da0cba147c75ce515a7 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumPropertyDrawer.cs: 3515ce5f59c8813c1b42365c62110624 -> 
+  custom:scripting/monoscript/fileName/CustomCapabilityKeyAttribute.cs: b8f84d6112ffc5b06d2d522a8c830bb0 -> 
+  custom:scripting/monoscript/fileName/FloatDatumProperty.cs: d95eb104a3ef3c6ae92507bce7881df3 -> 
+  custom:scripting/monoscript/fileName/PackageNotificationUtils.cs: e493f521fc1755dec19875ae28a4f621 -> 
+  custom:scripting/monoscript/fileName/SceneValidationUIUtils.cs: 22b86e6be82caa28b03f585d1da7a237 -> 
+  custom:scripting/monoscript/fileName/XRManagementAnalytics.cs: 546181baf4c03dbbd57015a6731508f8 -> 
+  custom:scripting/monoscript/fileName/UndoBlock.cs: bc46b6201606aca58a8d08e7a8630eb5 -> 
+  custom:scripting/monoscript/fileName/TransitionArmModelEditor.cs: 6f53e2a966c4ba4985525963dcf7d0ab -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadataStore.cs: e06e5e9ffca9529e9db63900dd9caf32 -> 
+  custom:scripting/monoscript/fileName/XRPackage.cs: f2edbbf87f9b798abaf2a9f285d155f5 -> 
+  custom:scripting/monoscript/fileName/CameraOffsetEditor.cs: 063c409eda0f5d6811c327c4b5c05de0 -> 
+  custom:scripting/monoscript/fileName/FlagsPropertyAttribute.cs: 084445b05dff6018ed26483427ba66b1 -> 
+  custom:scripting/monoscript/fileName/Datum.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BasePoseProvider.cs: 9a4470e47f250d9ee83dd1e5b0c8d4fb -> 
+  custom:scripting/monoscript/fileName/Vector2Extensions.cs: fdac1796d7a60dd2a972e3ad84676279 -> bce7f3076984999dee21f7e6ecec3970
+  custom:scripting/monoscript/fileName/CameraOffset.cs: 48495ef795ef97b0c04851d617a81ec1 -> 
+  custom:scripting/monoscript/fileName/XRLoaderInfoManager.cs: 28efaa63edac30b89ccc35ca2bf149fa -> 
+  custom:scripting/monoscript/fileName/ReadOnlyList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/XRConfigurationData.cs: 2cf07b13d54bfee2898ed6dc38612fbb -> 
+  custom:scripting/monoscript/fileName/GeometryUtils.cs: 328e21e115aab576f0c2cc1740fc8a41 -> 
+  custom:scripting/monoscript/fileName/GuidUtil.cs: d1f5a09d9fee592e550b9629f93c4c63 -> 
+  custom:scripting/monoscript/fileName/HashSetList.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ICapabilityModifier.cs: 3d475b7a59d03e48e843cee54ceb3c66 -> 
+  custom:scripting/monoscript/fileName/CachedComponentFilter.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/GuidExtensions.cs: 4f96c234827c9f502739689050ba31d7 -> 
+  custom:scripting/monoscript/fileName/BuildingBlockUtils.cs: 685579ed12ed358773bc7d3b51ac57c3 -> 
+  custom:scripting/precompiled-assembly-types:Oculus.VR.Editor: 2630c14bd2789c0e181a8771fe0a4f14 -> 12dfbc4129e33636b8c4fd576d061dea
+  custom:scripting/monoscript/fileName/AndroidManifestDocument.cs: 4c38ca7417a5355dfe2fd0b706ad71e8 -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatum.cs: 7a005b62071f13d631a735bf21acdb5f -> 
+  custom:scripting/monoscript/fileName/IntDatumProperty.cs: 51a572f09881fdb3c39d970c12b34b19 -> 
+  custom:scripting/monoscript/fileName/EditorGUIUtils.cs: 701dfba7f7aa88c832d5efa6a6401b52 -> 
+  custom:scripting/monoscript/fileName/TextureUtils.cs: 8f48fdf9d37d552791296f3db18d7293 -> 
+  custom:scripting/monoscript/fileName/XRPackageInitializationSettings.cs: 2f743437d3b09c9a4a5a33e9be971b1a -> 
+  custom:scripting/monoscript/fileName/FloatDatumPropertyDrawer.cs: 0c9e3ca7d66e4634b955f155129c5358 -> 
+  custom:scripting/monoscript/fileName/OnDestroyNotifier.cs: 9320588873bc402103b6c71239087d46 -> 
+  custom:scripting/monoscript/fileName/FloatDatum.cs: 6bf8df8dd116e6869317b96cc2832ced -> 
+  custom:scripting/monoscript/fileName/ReadOnlyListSpan.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/PackageVersionUtility.cs: 96e72c8c385206675c182d08a61247f8 -> 
+  custom:scripting/monoscript/fileName/XRPackageMetadata.cs: 16731333f575d8bc31df496aced36ebf -> 
+  custom:scripting/monoscript/fileName/XRManagerSettings.cs: 39a1227fa3c478af29a735ec246b6baf -> 
+  custom:scripting/monoscript/fileName/PackageVersion.cs: 0f86b0866157a0dbfedd6e4123adccda -> 
+  custom:scripting/monoscript/fileName/XRLegacyUninstaller.cs: b85851af39f83959c5c298effbf32139 -> 
+  custom:scripting/monoscript/fileName/XRCustomLoaderUIManager.cs: 4be5a8f671a1d808dd1496961b79b86b -> 
+  custom:scripting/monoscript/fileName/CoreUtilsAnalytics.cs: fc1b8263d625f16a6826517266eeadca -> 
+  custom:scripting/monoscript/fileName/AnimationCurveDatumProperty.cs: c326bbe7a44f6ecb2a7d5ff8856f9cac -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ListExtensions.cs: dc08b0e81401b7052a787865553578e4 -> 
+  custom:scripting/precompiled-assembly-types:UnityEditor.XR.LegacyInputHelpers: 52acfc53051faf8d3716fd452f740f78 -> 
+  custom:scripting/monoscript/fileName/StringDatumProperty.cs: 77ae464d731fc089fa2dce81bad0a315 -> 
+  custom:scripting/monoscript/fileName/GameObjectUtils.cs: c2dd418db18ce47e0c417bface05337e -> 
+  custom:scripting/monoscript/fileName/ProjectValidationDrawer.cs: aa5c1a415a84802ad5740b78a5ea2ab8 -> 
+  custom:scripting/monoscript/fileName/ObjectPool.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
