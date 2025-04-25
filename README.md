@@ -65,8 +65,8 @@ GodzillaVR/ ├── Assets/ │ ├── Models/ # Symbolically linked from O
 
 ## 🧠 Credits
 
-Created by [Your Name]  
-Art Direction, Programming & Design by [Your Name]  
+Created by [Michal Lazovy]  
+Art Direction, Programming & Design by [Michal Lazovy]  
 Inspired by **Kaiju lore** & modern VR interaction
 
 ---
