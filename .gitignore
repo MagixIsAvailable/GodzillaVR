@@ -77,3 +77,5 @@ crashlytics-build.properties
 
 # macOS specific files
 .DS_Store # Add this line
+# Ignore OneDrive linked models
+Assets/Models/*.3ds *.fbx 
