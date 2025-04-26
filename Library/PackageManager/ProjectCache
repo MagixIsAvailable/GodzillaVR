@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638811097044348409
-    m_Hash: 3723956775
+      ticks: 638812938547002791
+    m_Hash: 1518619673
   m_LockFileStatus:
     m_FilePath: G:/unityprojects/Godzilla_VR_2025/UnityProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638811097044488923
-    m_Hash: 2628445662
+      ticks: 638812938547012821
+    m_Hash: 3487368600
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
