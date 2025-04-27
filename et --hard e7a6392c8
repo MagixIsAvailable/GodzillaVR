@@ -1,0 +1,22 @@
+[33m3970a0b3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: Add rules to ignore OneDrive linked models in .gitignore
+[33m6c9d7dbce[m HEAD@{1}: commit: reset !
+[33m4172ae35f[m HEAD@{2}: reset: moving to origin/main
+[33me7a6392c8[m HEAD@{3}: commit: Update .gitignore to ignore Assets/Models
+[33m9b66ff7b8[m HEAD@{4}: reset: moving to HEAD~1
+[33m55f0dceaa[m HEAD@{5}: commit: Update .gitignore to ignore OneDrive linked models
+[33m9b66ff7b8[m HEAD@{6}: commit: Add .gitignore and ProjectSettings
+[33mf419e1f72[m HEAD@{7}: reset: moving to HEAD~1
+[33m5e2c016cb[m HEAD@{8}: commit: fix: ensure .DS_Store entry is properly formatted in .gitignore
+[33mf419e1f72[m HEAD@{9}: reset: moving to HEAD~1
+[33m3e26e2aaf[m HEAD@{10}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33mf419e1f72[m HEAD@{11}: commit: restore .gitignore file for Unity project with comprehensive entries
+[33m9c1aa8e18[m HEAD@{12}: reset: moving to HEAD~1
+[33m037f2f1b4[m HEAD@{13}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m9c1aa8e18[m HEAD@{14}: commit: godzzila update
+[33m552fa9e7d[m HEAD@{15}: reset: moving to HEAD~1
+[33md09f09148[m HEAD@{16}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m552fa9e7d[m HEAD@{17}: commit: godzla in scene , check the body from blender
+[33maff24d962[m HEAD@{18}: commit: initail unity setup
+[33m55dde2ea4[m HEAD@{19}: commit: update .gitignore to include .vscode and .DS_Store entries
+[33m295e8eadd[m HEAD@{20}: commit: add .gitignore file for Unity project
+[33m91ba4c552[m HEAD@{21}: commit (initial): add initial tet.html file

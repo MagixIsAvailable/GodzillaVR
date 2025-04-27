@@ -80,3 +80,8 @@ crashlytics-build.properties
 
 # Ignore OneDrive linked models
 Assets/Models/
+
+# Ignore Terrain Sample Assets (can be re-imported)
+Assets/TerrainSampleAssets/
+# Ignore Tmaterials (can be re-imported)
+Assets/materials/
