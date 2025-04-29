@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - FootCollider
+  - SmallBuilding
+  - MediumBuilding
+  - LargeBuilding
   layers:
   - Default
   - TransparentFX
