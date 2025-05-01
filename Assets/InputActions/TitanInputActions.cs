@@ -52,7 +52,7 @@ public partial class @TitanInputActions: IInputActionCollection2, IDisposable
                     ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
-                    ""initialStateCheck"": false
+                    ""initialStateCheck"": true
                 },
                 {
                     ""name"": ""Stomp"",
@@ -61,7 +61,7 @@ public partial class @TitanInputActions: IInputActionCollection2, IDisposable
                     ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
-                    ""initialStateCheck"": false
+                    ""initialStateCheck"": true
                 }
             ],
             ""bindings"": [
@@ -80,7 +80,7 @@ public partial class @TitanInputActions: IInputActionCollection2, IDisposable
                     ""name"": """",
                     ""id"": ""1c9d65aa-6526-4789-ac2e-bfbee1a04f3a"",
                     ""path"": ""<XRController>{RightHand}/thumbstick"",
-                    ""interactions"": """",
+                    ""interactions"": ""Press(behavior=2)"",
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Look"",
@@ -91,7 +91,7 @@ public partial class @TitanInputActions: IInputActionCollection2, IDisposable
                     ""name"": """",
                     ""id"": ""b7b9ac08-9c45-4605-a101-2a0c232efeb5"",
                     ""path"": ""<XRController>{RightHand}/triggerPressed"",
-                    ""interactions"": ""Press"",
+                    ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Jump"",
@@ -102,7 +102,7 @@ public partial class @TitanInputActions: IInputActionCollection2, IDisposable
                     ""name"": """",
                     ""id"": ""ad9a2418-c340-4bb0-b40c-17eb7233f5f6"",
                     ""path"": ""<XRController>{RightHand}/primaryButton"",
-                    ""interactions"": ""Press"",
+                    ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Stomp"",

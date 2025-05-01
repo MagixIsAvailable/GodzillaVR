@@ -55,6 +55,9 @@ public class TitanInputController : MonoBehaviour
 
     void Update()
     {
+        // Add this Debug Log
+        Debug.Log($"Move Input: {moveInput}");
+
         // Calculate movement direction relative to camera
         Vector3 forward = cameraTransform.forward;
         Vector3 right = cameraTransform.right;
