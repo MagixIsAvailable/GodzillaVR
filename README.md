@@ -1,11 +1,11 @@
-# 🦖 Godzilla VR: Immersive Experience
+# 🦖 MOnster attack VR: Immersive Experience
 
 **Final University Project – Immersive Technologies Module**  
 Created with **Unity (2022.3 LTS)** + **Blender 4.3** + **Meta XR SDK** for **Meta Quest 3**
 
 ## 🎮 Overview
 
-Become Godzilla in an immersive VR environment.  
+Become monster in an immersive VR environment.  
 Destroy a futuristic city, search for a **fusion reactor core**, and unleash the chaos with intuitive VR control – all while seated comfortably using Meta Quest 3 controllers.
 
 > A seated VR experience focused on immersion, destruction mechanics, and full-body tracking integration.
