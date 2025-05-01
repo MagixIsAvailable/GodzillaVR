@@ -2,6 +2,12 @@
   "dependencies": {
     "com.meta.movement": "https://github.com/oculus-samples/Unity-Movement.git",
     "com.meta.xr.sdk.all": "74.0.3",
+    "com.meta.xr.sdk.audio": "74.0.0",
+    "com.meta.xr.sdk.core": "74.0.2",
+    "com.meta.xr.sdk.interaction": "74.0.2",
+    "com.meta.xr.sdk.platform": "74.0.0",
+    "com.meta.xr.sdk.sharedassets": "68.0.0",
+    "com.meta.xr.simulator": "74.0.0",
     "com.unity.ide.visualstudio": "2.0.23",
     "com.unity.xr.management": "4.5.1",
     "com.unity.xr.openxr": "1.14.3",

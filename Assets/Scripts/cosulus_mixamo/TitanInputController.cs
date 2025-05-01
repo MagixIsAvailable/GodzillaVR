@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -24,6 +25,7 @@ public class TitanInputController : MonoBehaviour
 
     private void Awake()
     {
+        controller = GetComponent<CharacterController>();
         inputActions = new TitanInputActions();
 
         inputActions.Gameplay.Move.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
@@ -34,7 +36,11 @@ public class TitanInputController : MonoBehaviour
 
         inputActions.Gameplay.Look.performed += ctx => HandleLook(ctx.ReadValue<Vector2>());
         inputActions.Gameplay.Look.canceled += ctx => HandleLook(Vector2.zero);
+    }
 
+    private int CharacterController()
+    {
+        throw new NotImplementedException();
     }
 
     private void OnEnable()
@@ -47,32 +53,26 @@ public class TitanInputController : MonoBehaviour
         inputActions.Gameplay.Disable();
     }
 
-    void Start()
-    {
-        controller = GetComponent<CharacterController>();
-    }
-
     void Update()
     {
-        Vector3 direction = new Vector3(moveInput.x, 0, moveInput.y);
+        // Calculate movement direction relative to camera
+        Vector3 forward = cameraTransform.forward;
+        Vector3 right = cameraTransform.right;
+        forward.y = 0; // Keep movement horizontal
+        right.y = 0;
+        forward.Normalize();
+        right.Normalize();
 
-        if (cameraTransform != null)
-        {
-            Vector3 camForward = cameraTransform.forward;
-            camForward.y = 0f;
-            direction = Quaternion.LookRotation(camForward) * direction;
-        }
+        Vector3 direction = (forward * moveInput.y + right * moveInput.x).normalized;
 
-        if (direction.magnitude > 0.1f)
-        {
-            controller.SimpleMove(direction.normalized * moveSpeed);
-            Quaternion toRotation = Quaternion.LookRotation(direction, Vector3.up);
-            transform.rotation = Quaternion.Slerp(transform.rotation, toRotation, turnSpeed * Time.deltaTime);
-        }
+        // Apply movement
+        controller.SimpleMove(direction * moveSpeed); // SimpleMove applies gravity
 
+        // Update Animator Speed based on input magnitude
         if (animator != null)
         {
-            animator.SetFloat("Speed", direction.magnitude);
+            // Use moveInput.magnitude to reflect joystick input strength
+            animator.SetFloat("Speed", moveInput.magnitude);
         }
     }
 }
